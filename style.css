@@ -122,6 +122,7 @@ main {
 .h1_glade {
 	text-transform: uppercase;
 	font-size: 36px;
+	/*font-size: 36px;*/
 }
 
 .border_glade {
