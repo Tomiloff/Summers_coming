@@ -94,6 +94,7 @@ main {
 	margin: 40px auto;
 	display: flex;
 	justify-content: center;
+	/*justify-content: center;*/
 }
 
 .text_header {
